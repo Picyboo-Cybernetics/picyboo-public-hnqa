@@ -12,7 +12,7 @@ HNQA encodes quantum superposition principles into classical neural architecture
 
 ## Whitepaper
 - PDF: docs/halenta-hybrid-neural-quantum-architecture-(hnqa)-2025-10-10-v1_1.pdf  
-- DOI: https://doi.org/10.5281/zenodo.17309056  
+- DOI:  https://doi.org/10.5281/zenodo.17360132
 - Also available on arXiv (Cornell University, USA)
 
 ## Repository purpose
