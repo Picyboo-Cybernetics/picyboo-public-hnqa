@@ -22,7 +22,7 @@ Openly published for transparency. Implementation stubs included. Roadmaps and c
 
 ## How to cite
 > Halenta, D. N. (2025). *HNQA: Hybrid Neural Quantum Architecture.* Picyboo Cybernetics Inc.  
-> DOI: https://doi.org/10.5281/zenodo.17309056
+> DOI: https://doi.org/10.5281/zenodo.17455262
 
 ## Links
 - Website: https://picyboo.com  
