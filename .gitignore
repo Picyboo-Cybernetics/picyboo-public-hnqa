@@ -10,6 +10,8 @@ Thumbs.db
 __pycache__/
 *.py[cod]
 .venv/
+.env
+.env.*
 .env/
 build/
 dist/
@@ -28,3 +30,36 @@ vendor/
 
 # OS
 Icon?
+
+# Credentials and local configs
+*.key
+*.pem
+*.crt
+*.cert
+*.p12
+*.db
+*.sqlite
+*.sqlite3
+secrets.*
+config.local.*
+settings.json
+credentials.json
+
+# Node / Frontend (falls vorhanden)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.next/
+out/
+coverage/
+.vscode/
+.idea/
+
+# Backup / Cache
+*.bak
+*.old
+*.orig
+.cache/
+tmp/
+logs/
